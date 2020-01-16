@@ -29,7 +29,7 @@ end
   end
 
   def count_sentences
-return self.count("."||"!"||"?")
+return self.count("."||"!"||"?")!
 
   end
   
