@@ -18,6 +18,7 @@ end
       return false
     end
   end
+  
   end
 
   def exclamation?
