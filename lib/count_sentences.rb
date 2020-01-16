@@ -29,7 +29,7 @@ end
   end
 
   def count_sentences
-num_sentences= self.count(".","!","?")
+num_sentences== self.count(".","!","?")
 return num_sentences
   end
   
